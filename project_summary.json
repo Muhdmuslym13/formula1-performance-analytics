@@ -1,0 +1,23 @@
+{
+  "total_tables": 15,
+  "results_rows": 26291,
+  "lap_time_rows": 637858,
+  "pit_stop_rows": 12971,
+  "season_min": 1950,
+  "season_max": 2026,
+  "pole_starts": 1179,
+  "pole_wins": 510,
+  "pole_win_rate_pct": 43.26,
+  "grid_finish_correlation": 0.411,
+  "top_driver": {
+    "driver_name": "Lewis Hamilton",
+    "wins": 106,
+    "championships_points": 2519.0
+  },
+  "top_constructor": {
+    "constructor_name": "Ferrari",
+    "wins": 251,
+    "points": 2982.14
+  },
+  "latest_year_race_count": 19
+}
