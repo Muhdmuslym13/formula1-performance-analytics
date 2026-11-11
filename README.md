@@ -61,8 +61,7 @@ f1-performance-analytics/
 3. **Data preparation:** standardise types, join dimensions, derive indicators and document assumptions.
 4. **Exploratory analysis:** rank drivers/teams, study trends and qualifying outcomes.
 5. **Validation:** reconcile row counts and independently verify key aggregations in SQL/Excel.
-6. **Visualisation:** create charts and an executive Power BI dashboard.
-7. **Communication:** explain what happened, why it matters, limitations and recommended next analysis.
+6. **Visualisation:** create charts in Power BI dashboard.
 
 ## Metric definitions
 - **Race win:** a result row where `positionOrder = 1`.
