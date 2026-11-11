@@ -45,7 +45,7 @@ f1-performance-analytics/
 - **Python (pandas, matplotlib):** data profiling, cleaning, joining and exploratory analysis.
 - **SQL:** relational joins, aggregation, ranking, window functions and business questions.
 - **Excel:** independent validation, PivotTables and exploratory summaries.
-- **Power BI:** interactive executive dashboard (dashboard build guide can be added as a next step).
+- **Power BI:** interactive executive dashboard.
 
 ## Initial findings from the supplied extract
 - Pole-position starts analysed: **1,179**
